@@ -1,0 +1,7 @@
+proxyAddr: INSERT_HERE
+authToken: INSERT_HERE
+kubeClusterName: my-cluster
+roles: kube,app
+apps:
+- name: kube-dash
+  uri: INSERT_HERE

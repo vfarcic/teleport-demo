@@ -1,0 +1,3 @@
+proxyAddr: INSERT_HERE
+authToken: INSERT_HERE
+kubeClusterName: my-cluster
