@@ -3,5 +3,5 @@ authToken: INSERT_HERE
 kubeClusterName: my-cluster
 roles: kube,app
 apps:
-- name: kube-dash
+- name: prometheus
   uri: INSERT_HERE
