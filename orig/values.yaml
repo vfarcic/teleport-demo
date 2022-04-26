@@ -1,3 +1,4 @@
+teleportVersionOverride: "8.3.7"
 proxyAddr: INSERT_HERE
 authToken: INSERT_HERE
 kubeClusterName: my-cluster
